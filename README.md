@@ -1,4 +1,4 @@
-# (CV) MARIONA MASFERRER I FONS (versión en castellano)
+# (CV) Mariona Masferrer i Fons (castellano)
 
 CV realizado con LaTex. 
 
