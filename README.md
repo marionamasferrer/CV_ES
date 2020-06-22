@@ -1,5 +1,5 @@
-# (CV) Mariona Masferrer i Fons (castellano)
+# (CV) Mariona Masferrer i Fons
 
-CV realizado con LaTex. 
+CV realitzat en LaTex. 
 
-Consulta el PDF resultante [aquí](https://github.com/marionamasferrer/CV_ES/blob/master/CV_ES/(CV)Mariona%20Masferrer_ES.pdf). 
+Consulta [aquí](https://github.com/marionamasferrerifons/CV/blob/master/CV_CAT/CV_Mariona%20Masferrer%20i%20Fons_CAT.pdf). 
